@@ -1,5 +1,6 @@
 
 --
+--
 -- PostgreSQL database dump
 --
 
@@ -28,7 +29,6 @@ CREATE EXTENSION IF NOT EXISTS plpgsql WITH SCHEMA pg_catalog;
 --
 
 COMMENT ON EXTENSION plpgsql IS 'PL/pgSQL procedural language';
-
 
 --
 -- Name: mt_get_next_hi(character varying); Type: FUNCTION; Schema: public; Owner: postgres
